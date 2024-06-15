@@ -1,1 +1,3 @@
 vless://651cb111-b58e-4d51-a1d8-edacd9ffb15e@188.114.97.0:443?path=%2Fa2JvtJrRFdw6UfYn%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=sIlENt-BROOK-F576.FarZaDGAmER53.WORKErs.deV&fp=randomized&type=ws&sni=silENt-BROOk-f576.faRZADgamEr53.WOrkErs.dEV#server
+vless://3c30e1d6-4e26-4760-bc8b-d66926f5280f@snowy-sky-6701.farzadgamer53.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=snowy-sky-6701.farzadgamer53.workers.dev&fp=randomized&type=ws&sni=snowy-sky-6701.farzadgamer53.workers.dev#ed_tunell
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@jadid-aor.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=jadid-aor.pages.dev&fp=chrome&type=ws&sni=jadid-aor.pages.dev#pages
