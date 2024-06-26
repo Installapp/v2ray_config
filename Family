@@ -1,2 +1,2 @@
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@jadid-aor.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=jadid-aor.pages.dev&fp=chrome&type=ws&sni=jadid-aor.pages.dev#server1
-vless://bf26a97c-4112-4f14-82e8-b5acb0e206cb@edworker.pubgfarzadkorea.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edworker.pubgfarzadkorea.workers.dev&fp=randomized&type=ws&sni=edworker.pubgfarzadkorea.workers.dev#server2
+vless://fe115614-a41a-4e2a-8755-58b0c28b047b@edworker1.pubgfarzadkorea.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edworker1.pubgfarzadkorea.workers.dev&fp=randomized&type=ws&sni=edworker1.pubgfarzadkorea.workers.dev#server2
