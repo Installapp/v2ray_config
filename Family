@@ -1,4 +1,4 @@
-vless://ea5fcb43-b12d-407d-8353-46fa17aefbb1@www.speedtest.net:2052?path=%2Fx6Okr495Z84ScgD6%2FMi4xNi4yMDIuMjU1%3Fed%3D2560&security=none&encryption=none&host=BpB.pubgFArZadKOREA.wORkeRs.dEV&type=ws#server1
-vless://ea5fcb43-b12d-407d-8353-46fa17aefbb1@[2a06:98c1:3120::3]:2052?path=%2FbxpuOJVgAvTwNnnh%2FMi4xNi4yMDIuMjU1%3Fed%3D2560&security=none&encryption=none&host=BpB.pUbGFaRZadkoReA.WoRkERS.DEV&type=ws#server2
+vless://ea5fcb43-b12d-407d-8353-46fa17aefbb1@104.19.250.20:2052?path=%2FNJK5TYrymS6rCaDi%3Fed%3D2560&security=none&encryption=none&host=Bpb.pUbGfARzAdKOREA.WOrKerS.deV&type=ws#server1
+vless://ea5fcb43-b12d-407d-8353-46fa17aefbb1@188.114.96.3:2052?path=%2FFlABGOryaGXnZPIk%3Fed%3D2560&security=none&encryption=none&host=bPB.pUbGfARzaDKOREa.wOrKERs.deV&type=ws#server2
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@jadid-aor.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=jadid-aor.pages.dev&fp=chrome&type=ws&sni=jadid-aor.pages.dev#server3
 vless://fe115614-a41a-4e2a-8755-58b0c28b047b@edworker1.pubgfarzadkorea.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edworker1.pubgfarzadkorea.workers.dev&fp=randomized&type=ws&sni=edworker1.pubgfarzadkorea.workers.dev#server4
