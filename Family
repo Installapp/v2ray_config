@@ -1,4 +1,4 @@
-vless://ea5fcb43-b12d-407d-8353-46fa17aefbb1@104.19.250.20:2052?path=%2FNJK5TYrymS6rCaDi%3Fed%3D2560&security=none&encryption=none&host=Bpb.pUbGfARzAdKOREA.WOrKerS.deV&type=ws#server1_no mtn(ایرانسل)
-vless://6a01913c-c8cc-44b2-a7c0-be83e17390f2@104.16.4.103:2052?path=%2FPLmRFt0aQUTP7oRq%3Fed%3D2560&security=none&encryption=none&host=BpB.fArZaDGAmER53.WorKERS.dEv&type=ws#server2
+vless://ea5fcb43-b12d-407d-8353-46fa17aefbb1@103.169.142.0:2052?path=%2FgRJfY4rPMTP7kLkk%3Fed%3D2560&security=none&encryption=none&host=BPB.PUbGFarZAdkorEa.WORkErs.deV&type=ws#server1
+vless://ea5fcb43-b12d-407d-8353-46fa17aefbb1@188.114.97.3:2052?path=%2FY570p9P2nd42SVWv%3Fed%3D2560&security=none&encryption=none&host=Bpb.puBgFaRZAdkOReA.wOrKERs.Dev&type=ws#server2
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@jadid-aor.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=jadid-aor.pages.dev&fp=chrome&type=ws&sni=jadid-aor.pages.dev#server3
 vless://fe115614-a41a-4e2a-8755-58b0c28b047b@edworker1.pubgfarzadkorea.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edworker1.pubgfarzadkorea.workers.dev&fp=randomized&type=ws&sni=edworker1.pubgfarzadkorea.workers.dev#server4
