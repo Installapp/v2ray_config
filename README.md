@@ -12,3 +12,4 @@
 
 کافی است در  v2ray , hidify  یا هر کلاینت دیگری لینک زیر را کپی کرده 
 و در برنامه جایگذاری کنید و از اینترنت ازاد بهره مند شوید .
+https://raw.githubusercontent.com/Installapp/v2ray_config/refs/heads/main/F_Sub
